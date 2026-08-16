@@ -5,92 +5,52 @@ permalink: /terms/
 ---
 
 # LAS Finance MCP – Terms of Use
-
-Effective Date: August 16, 2026
-
-[then the rest of your Terms content]
 ---
 title: LAS Finance MCP – Terms of Use
----
-# LAS Finance MCP – Privacy Policy
+---# LAS Finance MCP – Terms of Use
 
 **Effective Date: August 16, 2026**
 
-LAS Finance MCP is a private financial-data integration operated by Lisa Adams Savard Consulting. This Privacy Policy explains how information accessed through the application is used, protected, retained, and deleted.
+LAS Finance MCP is a private software integration operated by Lisa Adams Savard Consulting for authorized business and financial-management purposes.
 
-## Information Accessed
+## Purpose
 
-When an authorized QuickBooks Online company is connected to LAS Finance MCP, the application may access financial and business information made available through the Intuit QuickBooks Online API.
+LAS Finance MCP connects authorized QuickBooks Online company data with Model Context Protocol (MCP)-compatible software and artificial intelligence tools for purposes including financial reporting, analysis, business management, and decision support.
 
-Depending on the functions used, this information may include:
+The application is intended primarily for internal use by Lisa Adams Savard Consulting and affiliated businesses that have expressly authorized access to their QuickBooks Online information.
 
-* Company and account information
-* Financial reports
-* Income and expense information
-* Customers and vendors
-* Invoices, bills, and related accounting records
-* Account balances and transaction information
-* Other QuickBooks Online data authorized by the account owner
+## Authorized Use
 
-LAS Finance MCP does not require users to provide their QuickBooks username or password directly to the application. QuickBooks access is authorized through Intuit's OAuth authorization process.
+Use of LAS Finance MCP is limited to authorized users and authorized QuickBooks Online companies.
 
-## How Information Is Used
+Users may not attempt to access a QuickBooks company or other financial information for which they do not have permission.
 
-Information accessed through LAS Finance MCP is used only for authorized business purposes, including:
+Access to QuickBooks Online is provided through Intuit's authorization process and may be revoked through Intuit or by the business owner at any time.
 
-* Financial reporting and analysis
-* Business-performance analysis
-* Cash-flow and financial planning
-* Reviewing accounting information
-* Supporting management decisions
-* Providing authorized information to MCP-compatible and artificial intelligence tools used by the business
+## Financial Information
 
-LAS Finance MCP does not sell QuickBooks information or use it for advertising.
+LAS Finance MCP may retrieve and analyze financial information from authorized QuickBooks Online companies.
 
-## Authorization and Access
+Information produced through the application is intended to assist with business analysis and decision-making. It should not be considered a substitute for professional accounting, tax, legal, investment, or financial advice.
 
-QuickBooks Online access is limited to companies that have been expressly authorized through Intuit.
+Users remain responsible for verifying financial information and consulting appropriate professional advisors when necessary.
 
-Authorization may be revoked at any time through the applicable Intuit or QuickBooks account.
+## Third-Party Services
 
-Access to the LAS Finance MCP environment is limited to authorized business users and systems.
+LAS Finance MCP relies on third-party services that may include Intuit QuickBooks Online, artificial intelligence platforms, Model Context Protocol-compatible software, and related infrastructure.
 
-## Credentials and Security
+Use of those services may also be governed by their respective terms and privacy policies.
 
-Application credentials, OAuth refresh tokens, company identifiers, and similar authentication information are maintained in protected application configuration and are not intended to be publicly disclosed or stored in public source-code repositories.
+## Availability and Changes
 
-Reasonable administrative and technical safeguards are used to limit unauthorized access to financial information and credentials.
+LAS Finance MCP is provided for private business use and may be modified, suspended, or discontinued at any time.
 
-## Data Sharing
+No guarantee is made that the application will always be available or error-free.
 
-Financial information may be processed by service providers used to operate LAS Finance MCP, including Intuit QuickBooks Online and authorized MCP-compatible or artificial intelligence platforms selected by the business.
+## Limitation of Liability
 
-Information is shared only as necessary to perform the functions requested by the authorized user.
-
-LAS Finance MCP does not sell personal or financial information to third parties.
-
-## Data Retention
-
-LAS Finance MCP is designed primarily to retrieve information from authorized source systems when needed.
-
-QuickBooks accounting records remain maintained within QuickBooks Online according to the business's QuickBooks account and retention practices.
-
-Authentication credentials and configuration information may be retained for as long as necessary to maintain an authorized connection.
-
-Any locally retained application data will be kept only for as long as reasonably necessary for its authorized business purpose.
-
-## Data Deletion
-
-An authorized business owner may discontinue LAS Finance MCP access by revoking the application's QuickBooks authorization.
-
-When an integration is permanently discontinued, locally maintained authentication credentials associated with that connection may be deleted.
-
-Requests concerning removal of locally retained application information may be directed to Lisa Adams Savard Consulting.
-
-## Changes to This Policy
-
-This Privacy Policy may be updated as the application, connected services, or applicable requirements change. The current version will be made publicly available at the application’s designated privacy-policy URL.
+To the extent permitted by applicable law, Lisa Adams Savard Consulting is not responsible for losses resulting from reliance on automated analysis, inaccurate source information, third-party service interruptions, or unauthorized use of the application.
 
 ## Contact
 
-Questions regarding this Privacy Policy or LAS Finance MCP's handling of information may be directed to Lisa Adams Savard Consulting through its designated business contact channels.
+Questions concerning LAS Finance MCP may be directed to Lisa Adams Savard Consulting through its designated business contact channels.
