@@ -1,4 +1,15 @@
 ---
+layout: page
+title: "LAS Finance MCP – Terms of Use"
+permalink: /terms/
+---
+
+# LAS Finance MCP – Terms of Use
+
+Effective Date: August 16, 2026
+
+[then the rest of your Terms content]
+---
 title: LAS Finance MCP – Privacy Policy
 ---# LAS Finance MCP – Privacy Policy
 
