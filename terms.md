@@ -5,9 +5,6 @@ permalink: /terms/
 ---
 
 # LAS Finance MCP – Terms of Use
----
-title: LAS Finance MCP – Terms of Use
----# LAS Finance MCP – Terms of Use
 
 **Effective Date: August 16, 2026**
 
